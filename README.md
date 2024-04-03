@@ -18,3 +18,5 @@
   <a href="https://www.linkedin.com/in/matheus-buttow-17697319b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div>“A paciência é uma virtude essencial para o sucesso a longo prazo.” <div>Bill Gates</div></div>
