@@ -20,12 +20,6 @@
   <sub>Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; DAX &nbsp;·&nbsp; Excel &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; scikit-learn</sub>
 </p>
 
-<br/>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Matheusbuttow&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&locale=pt-br" alt="Estatísticas" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbuttow&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&locale=pt-br" alt="Linguagens" />
-</p>
 
 <br/>
 
