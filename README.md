@@ -1,37 +1,38 @@
+<h1 align="center">Matheus Büttow</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Matheus%20B%C3%BCttow&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Matheus Büttow" />
+  <b>Análise de Dados</b> &nbsp;·&nbsp; <b>Business Intelligence</b> &nbsp;·&nbsp; <b>Machine Learning</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=420&lines=dados+%C2%B7+power+bi+%C2%B7+machine+learning" alt="dados · power bi · machine learning" />
-</p>
-
-<p align="center">
-  análise de dados, dashboards e alguns modelos de ML no meio do caminho.<br/>
-  <sub>Python · SQL · Power BI · Excel · Pandas · scikit-learn</sub>
+  <a href="https://www.linkedin.com/in/matheus-buttow-17697319b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:matheusbuttow@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheusbuttow&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbuttow&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="linguagens" />
+  Trabalho com dados de ponta a ponta: tratamento, análise, dashboards em Power BI<br/>
+  e modelos de machine learning em Python.
 </p>
+
+<p align="center">
+  <sub>Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; DAX &nbsp;·&nbsp; Excel &nbsp;·&nbsp; Pandas &nbsp;·&nbsp; scikit-learn</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Matheusbuttow&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&locale=pt-br" alt="Estatísticas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbuttow&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&locale=pt-br" alt="Linguagens" />
+</p>
+
+<br/>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusbuttow/Matheusbuttow/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusbuttow/Matheusbuttow/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Matheusbuttow/Matheusbuttow/output/github-snake-dark.svg" />
+    <img alt="Contribuições" src="https://raw.githubusercontent.com/Matheusbuttow/Matheusbuttow/output/github-snake-dark.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-buttow-17697319b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:matheusbuttow@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.instagram.com/matheusbuttow/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" />
 </p>
