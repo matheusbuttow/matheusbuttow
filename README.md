@@ -26,21 +26,10 @@
 </p>
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="predios 3D" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusbuttow/matheusbuttow/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusbuttow/matheusbuttow/output/github-snake.svg" />
     <img alt="snake" src="https://raw.githubusercontent.com/Matheusbuttow/matheusbuttow/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusbuttow/Matheusbuttow/output-pacman/pacman-contribution-graph-dark.svg" />
-    <img alt="pacman" src="https://raw.githubusercontent.com/Matheusbuttow/Matheusbuttow/output-pacman/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
